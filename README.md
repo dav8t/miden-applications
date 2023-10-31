@@ -1,1 +1,1 @@
-# miden-applications
+# miden-apps
